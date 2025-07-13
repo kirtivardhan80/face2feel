@@ -1,5 +1,11 @@
 # 😊 Real-Time Emotion Detection using MobileNetV2 + OpenCV
 
+<div align="center">
+  <img src="Farm.jpg" height="1200",width="632" alt="NDVI Heatmap"/>
+  <br/>
+ 
+</div>
+
 This project uses a fine-tuned MobileNetV2 model to detect human facial emotions in **images**, **videos**, and **live webcam** streams. It applies deep learning for expression classification and OpenCV for face detection and visual overlay.
 
 ---
