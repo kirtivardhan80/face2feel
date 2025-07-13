@@ -104,7 +104,7 @@ Once a face is detected and emotion is predicted, a sample image (`detectedimg.j
 </p>
 
 <p align="center">
-  <img src="Sample Images/Screenshot 2025-07-13 211409.png" alt="" width="500"/>
+  <img src="Sample Images/Screenshot 2025-07-13 211528.png" alt="" width="500"/>
 </p>
 
 <p align="center">
