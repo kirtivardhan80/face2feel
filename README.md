@@ -121,7 +121,7 @@ Once a face is detected and emotion is predicted, a sample image (`detectedimg.j
 ### 📷 Webcam
 
 <p align="center">
-  <img src="Images/dos_plot.png" alt="Density of States" width="500"/>
+  <img src="Sample Images/Screenshot 2025-07-13 213438.png" alt="" height="500",width="500"/>
 </p>
 
 
