@@ -89,6 +89,29 @@ Once a face is detected and emotion is predicted, a sample image (`detectedimg.j
 
 ---
 
+## 💾 Prediction Sample
+
+### 🖼️ Images
+
+<p align="center">
+  <img src="Images/structure_gan_ti.png" alt="Optimized GaN-Ti Nanotube Structure" width="500"/>
+</p>
+
+### 🎥 Videos
+
+<p align="center">
+  <img src="Images/band_structure.png" alt="Band Structure Plot" width="500"/>
+</p>
+
+### 📷 Webcam
+
+<p align="center">
+  <img src="Images/dos_plot.png" alt="Density of States" width="500"/>
+</p>
+
+
+---
+
 ## ⚠️ Note on Accuracy
 
 📉 **Current model accuracy is ~40%**, which means predictions may not always be reliable.  
