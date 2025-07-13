@@ -114,7 +114,7 @@ Once a face is detected and emotion is predicted, a sample image (`detectedimg.j
 
 ### 🎥 Videos
 
-![Emotion Detection Demo](assets/demo.gif)
+![Emotion Detection Demo](Demo.gif)
 
 ### 📷 Webcam
 
