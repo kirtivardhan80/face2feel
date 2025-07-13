@@ -100,7 +100,7 @@ Once a face is detected and emotion is predicted, a sample image (`detectedimg.j
 ### 🖼️ Images
 
 <p align="center">
-  <img src="Images/structure_gan_ti.png" alt="Optimized GaN-Ti Nanotube Structure" width="500"/>
+  <img src="Sample Images/Screenshot 2025-07-13 211409.png" alt="" width="500"/>
 </p>
 
 ### 🎥 Videos
