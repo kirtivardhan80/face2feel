@@ -124,22 +124,22 @@ print(f"Test Accuracy: {accuracy * 100:.2f}%")
 
 1. **Clone the repo:**
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/Emotion-Detection.git
 cd Emotion-Detection
-\`\`\`
+```
 
 2. **Install dependencies:**
 
-\`\`\`bash
+```bash
 pip install tensorflow==2.10.1 opencv-python numpy matplotlib
-\`\`\`
+```
 
 3. **Run the notebook:**
 
-\`\`\`bash
+```bash
 jupyter notebook Emotion_Prediction_MobileNetV2.ipynb
-\`\`\`
+```
 
 ---
 
@@ -165,8 +165,20 @@ This project is licensed under the MIT License.
 
 ---
 
+
 ## 🙌 Acknowledgements
 
 - [FER2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
 - TensorFlow and OpenCV communities
 """)
+
+## 📧 Contact
+
+Kirti Vardhan Singh  
+📫 Email: kirtivardhan7549@gmail.com
+
+
+<div align="center">
+  Built with ❤️ for sustainable agriculture.
+</div>
+```
