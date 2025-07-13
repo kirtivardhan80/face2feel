@@ -100,15 +100,15 @@ Once a face is detected and emotion is predicted, a sample image (`detectedimg.j
 ### 🖼️ Images
 
 <p align="center">
-  <img src="Sample Images/Screenshot 2025-07-13 211409.png" alt="" height="500",width="500"/>
+  <img src="Sample Images/Screenshot 2025-07-13 211409.png" alt="" height="250",width="250"/>
 </p>
 
 <p align="center">
-  <img src="Sample Images/Screenshot 2025-07-13 211528.png" alt="" height="500",width="500"/>
+  <img src="Sample Images/Screenshot 2025-07-13 211528.png" alt="" height="250",width="250"/>
 </p>
 
 <p align="center">
-  <img src="Sample Images/Screenshot 2025-07-13 212822.png" alt="" height="500",width="500"/>
+  <img src="Sample Images/Screenshot 2025-07-13 212822.png" alt="" height="250",width="250"/>
 </p>
 
 
