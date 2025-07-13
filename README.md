@@ -114,9 +114,7 @@ Once a face is detected and emotion is predicted, a sample image (`detectedimg.j
 
 ### 🎥 Videos
 
-<p align="center">
-  <img src="Images/band_structure.png" alt="Band Structure Plot" width="500"/>
-</p>
+![Emotion Detection Demo](assets/demo.gif)
 
 ### 📷 Webcam
 
