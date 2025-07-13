@@ -1,7 +1,7 @@
 # 😊 Real-Time Emotion Detection using MobileNetV2 + OpenCV
 
 <div align="center">
-  <img src="Farm.jpg" height="1200",width="632" alt="NDVI Heatmap"/>
+  <img src="Face recognition thumbnail" height="1200",width="632" alt="Face"/>
   <br/>
  
 </div>
