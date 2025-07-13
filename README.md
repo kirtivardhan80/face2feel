@@ -193,13 +193,16 @@ This project is licensed under the MIT License.
 - TensorFlow and OpenCV communities
 """)
 
-## 📧 Contact
+## 📬 Contact
 
-Kirti Vardhan Singh  
-📫 Email: kirtivardhan7549@gmail.com
+👤 Kirti Vardhan Singh  
+📧 Email: kirtivardhan7549@gmail.com  
+🏫 Department of Computer Science and Engineering  
+Centurion University of Technology and Management, Bhubaneswar, India
 
+---
 
 <div align="center">
-  Built with ❤️ for sustainable agriculture.
+  Made with ❤️ for materials simulation and nanoscience.
 </div>
 ```
