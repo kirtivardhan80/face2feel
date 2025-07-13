@@ -134,23 +134,10 @@ Improving the model’s performance is part of future work, including better dat
 
 ## 🧪 Model Evaluation
 
-To evaluate accuracy on the test set:
+To evaluate the trained model, a separate test dataset was used containing labeled images categorized by emotion. The dataset is structured into subfolders (one per class) and loaded using Keras' `ImageDataGenerator`.
 
-\`\`\`python
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+The model's performance was measured by calculating its **categorical accuracy** on the test set after rescaling the pixel values. This helps estimate how well the model generalizes to unseen data. 
 
-test_datagen = ImageDataGenerator(rescale=1./255)
-test_generator = test_datagen.flow_from_directory(
-    'dataset/test', 
-    target_size=(224, 224),
-    batch_size=32,
-    class_mode='categorical',
-    shuffle=False
-)
-
-loss, accuracy = model.evaluate(test_generator)
-print(f"Test Accuracy: {accuracy * 100:.2f}%")
-\`\`\`
 
 ---
 
