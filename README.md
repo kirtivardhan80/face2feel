@@ -32,7 +32,7 @@ This project uses a fine-tuned MobileNetV2 model to detect human facial emotions
 ---
 
 ## 📦 Folder Structure
-
+```
 \`\`\`
 Emotion-Detection/
 │
@@ -44,7 +44,7 @@ Emotion-Detection/
     ├── train/
     └── test/
 \`\`\`
-
+```
 ---
 
 ## 🚀 Features
